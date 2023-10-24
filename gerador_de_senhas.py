@@ -23,3 +23,5 @@ def main():
 
 if __name__ == '__main__': # Chame a função principal se o script estiver sendo executado diretamente
     main()
+
+input() # Espera um input do usuário para não fechar
