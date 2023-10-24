@@ -1,0 +1,1 @@
+Este programa gera de forma rápida, simples e aleatóriamente uma senha de 25 caracteres extremamente forte e segura que contém letras, números e as pontuações "!@#$%^&*".
