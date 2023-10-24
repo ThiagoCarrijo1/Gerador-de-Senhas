@@ -1,0 +1,49 @@
+([('gerador_de_senhas.exe',
+   'C:\\Users\\Thiago C\\Documents\\EstudoProgramação\\Python\\Projetos '
+   'Pessoais\\Gerador de '
+   'Senhas\\build\\gerador_de_senhas\\gerador_de_senhas.exe',
+   'EXECUTABLE'),
+  ('python311.dll',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Thiago C\\Documents\\EstudoProgramação\\Python\\Projetos '
+   'Pessoais\\Gerador de Senhas\\build\\gerador_de_senhas\\base_library.zip',
+   'DATA')],)
